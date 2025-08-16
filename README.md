@@ -21,3 +21,15 @@ There are four different modes, including normal mode, hard mode (faster), incre
 - 1x Passive Buzzer
 - 4x Pushbuttons
 - Breadboard & Jumper Wires
+
+## Circuit Diagram
+![Circuit Diagram](project1_diagram.jpg)
+
+## Photo
+![Photo](project1_img1.jpeg)
+
+## License
+This project is licensed under the MIT License.
+
+## Author
+Colin DeChambeau
